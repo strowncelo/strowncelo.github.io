@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://strowncelo.github.io/sitemap.html
+Sitemap: https://strowncelo.github.io/app/sitemap.html
+Sitemap: https://strowncelo.github.io/assets/sitemap.html
+Sitemap: https://strowncelo.github.io/includes/sitemap.html
+Sitemap: https://strowncelo.github.io/src/sitemap.html
